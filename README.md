@@ -5,3 +5,4 @@
 4. Run Exitlag and login
 5. Enjoy!
 
+Use at your own risk! Im not responsible to your action (or ban?)
