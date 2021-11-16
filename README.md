@@ -1,3 +1,4 @@
 # exitlag-hwid-spoofer
-i have no idea
-i will be right back 
+1. Run gud.exe as administrator
+2. Enjoy!
+
