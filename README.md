@@ -13,4 +13,5 @@ How to use:
 5. Enjoy!
 
 We need to reopen it after restarting or you cant use Exitlag
+
 Use at your own risk! Im not responsible to your action (or ban?)
