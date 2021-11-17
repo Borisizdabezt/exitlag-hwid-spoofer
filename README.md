@@ -7,6 +7,8 @@ Windows Driver Kit (https://docs.microsoft.com/en-us/windows-hardware/drivers/do
 
 .NET (https://dotnet.microsoft.com/download/dotnet)
 
+Visual C++ (https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
 Videos:
 
 https://www.youtube.com/watch?v=mcwk8LPaw8M
