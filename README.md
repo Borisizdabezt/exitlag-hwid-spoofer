@@ -7,6 +7,10 @@ Windows Driver Kit (https://docs.microsoft.com/en-us/windows-hardware/drivers/do
 
 .NET (https://dotnet.microsoft.com/download/dotnet)
 
+Videos:
+
+https://www.youtube.com/watch?v=mcwk8LPaw8M
+
 How to use:
 1. Close exitlag
 2. Create an Exitlag account
