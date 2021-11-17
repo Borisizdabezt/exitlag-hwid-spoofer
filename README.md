@@ -9,6 +9,8 @@ Windows Driver Kit (https://docs.microsoft.com/en-us/windows-hardware/drivers/do
 
 Visual C++ (https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
+and visual C++ vs2015 (https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+
 Videos:
 
 https://www.youtube.com/watch?v=mcwk8LPaw8M
