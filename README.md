@@ -1,6 +1,8 @@
 # exitlag-hwid-spoofer
 Requirements:
 
+MAC Address Changer (google)
+
 Windows Driver Kit (https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 
 .NET Framework (https://dotnet.microsoft.com/download/dotnet-framework  )
@@ -19,8 +21,9 @@ How to use:
 1. Close exitlag
 2. Create an Exitlag account
 3. Run gud.exe as administrator
-4. Run Exitlag and login
-5. Enjoy!
+4. Change ur MAC address
+5. Run Exitlag and login
+6. Enjoy!
 
 We need to reopen it after restarting or you cant use Exitlag
 
