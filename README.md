@@ -1,7 +1,7 @@
 # exitlag-hwid-spoofer
 Requirements:
 
-MAC Address Changer (google)
+MAC Address Changer (google) (if u use Sputnik V 2.0, u dont need to change MAC Address)
 
 Windows Driver Kit (https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 
