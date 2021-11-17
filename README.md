@@ -1,7 +1,7 @@
 # exitlag-hwid-spoofer
 Requirements:
 
-MAC Address Changer (google)
+MAC Address Changer (google) (unnecessary if u use sputnik v 2.0)
 
 Windows Driver Kit (https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 
@@ -21,7 +21,7 @@ How to use:
 1. Close exitlag
 2. Create an Exitlag account
 3. Run gud.exe as administrator
-4. Change ur MAC address
+4. Change ur MAC address (unnecessary if u use sputnik v 2.0)
 5. Run Exitlag and login
 6. Enjoy!
 
