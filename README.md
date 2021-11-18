@@ -17,6 +17,8 @@ Videos:
 
 https://www.youtube.com/watch?v=mcwk8LPaw8M
 
+Don't download through "Download zip", download the lastest release.
+
 How to use:
 1. Close exitlag
 2. Create an Exitlag account
