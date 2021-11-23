@@ -29,8 +29,7 @@ How to use:
 5. Run Exitlag and login
 6. Enjoy!
 
-We need to reopen it after restarting or you cant use Exitlag
 
-not working at EAC, FaceIT,... (we need to bypass AC to use it or it will block driver)
+not working at EAC, FaceIT,... (boot into test mode, run spoofer, login ur new account, use for 2-3 mins then restart to normal windows and enjoy)
 
 Use at your own risk! Im not responsible to your action (or ban?)
