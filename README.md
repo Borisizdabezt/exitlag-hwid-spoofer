@@ -13,6 +13,8 @@ Visual C++ (https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-red
 
 and visual C++ vs2015 (https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 
+EAC Bypass (https://github.com/Schnocker/EAC_dbp; https://github.com/thesecretclub/CVEAC-2020)
+
 Videos:
 
 https://www.youtube.com/watch?v=mcwk8LPaw8M
