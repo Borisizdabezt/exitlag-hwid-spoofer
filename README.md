@@ -29,4 +29,6 @@ How to use:
 
 We need to reopen it after restarting or you cant use Exitlag
 
+not working at EAC, FaceIT,... (we need to bypass AC to use it or it will block driver)
+
 Use at your own risk! Im not responsible to your action (or ban?)
