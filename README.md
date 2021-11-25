@@ -1,4 +1,4 @@
-# exitlag-hwid-spoofer
+# ExitLag HWID Spoofer
 Requirements:
 
 Python (https://www.python.org/downloads/)
