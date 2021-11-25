@@ -5,7 +5,7 @@ Python (https://www.python.org/downloads/)
 
 Windows Driver Kit (https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 
-.NET Framework (https://dotnet.microsoft.com/download/dotnet-framework  )
+.NET Framework (https://dotnet.microsoft.com/download/dotnet-framework)
 
 .NET (https://dotnet.microsoft.com/download/dotnet)
 
