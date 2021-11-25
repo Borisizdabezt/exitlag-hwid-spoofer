@@ -1,6 +1,7 @@
 # exitlag-hwid-spoofer
 Requirements:
 
+Python (https://www.python.org/downloads/)
 
 Windows Driver Kit (https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 
