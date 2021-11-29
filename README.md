@@ -16,7 +16,7 @@ and visual C++ vs2015 (https://www.microsoft.com/en-us/download/details.aspx?id=
 
 Videos:
 
-https://www.youtube.com/watch?v=mcwk8LPaw8M
+https://youtu.be/Ws_XZpnUTbA
 
 Don't download through "Download zip", download the lastest release.
 
