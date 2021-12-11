@@ -30,4 +30,4 @@ How to use:
 
 now working at EAC, FaceIT,... (boot into test mode, run spoofer, login ur new account, use for 2-3 mins then restart to normal windows and enjoy)
 
-Use at your own risk! Im not responsible to your action (or ban?)
+Use at your own risk! Im not responsible to your action (or ban?) (just reboot after spoof, u will be free to use exitlag without triggering AC)
