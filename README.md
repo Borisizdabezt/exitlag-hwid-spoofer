@@ -28,7 +28,7 @@ How to use:
 6. Enjoy!
 
 
-now working at EAC, FaceIT,... (boot into test mode, run spoofer, login ur new account, use for 2-3 mins then restart to normal windows and enjoy)
+now working at EAC, FaceIT,... (run spoofer, login ur new account, use for 2-3 mins then restart and enjoy)
 
 if you have any problem, contact me via Discord: Borisizdabezt#1572
 
