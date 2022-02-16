@@ -20,13 +20,15 @@ https://youtu.be/Ws_XZpnUTbA
 
 Don't download through "Download zip", download the lastest release.
 
-How to use:
+How to use (old):
 1. Close exitlag
 2. Create an Exitlag account
 3. Run vaccine.exe as administrator, choose [2] and restart
 5. After restart, run vaccine.exe again and choose [1], open Exitlag, login and restart
 6. Enjoy!
 
+How to use (new):
+explore it yourself :) (im too lazy to write it)
 
 now working at EAC, FaceIT,... (run spoofer, login ur new account, use for 2-3 mins then restart and enjoy)
 
