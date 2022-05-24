@@ -32,6 +32,6 @@ explore it yourself :) (im too lazy to write it)
 
 now working at EAC, FaceIT,... (run spoofer, login ur new account, use for 2-3 mins then restart and enjoy)
 
-if you have any problem, contact me via Discord: merkii272#8047 
+if you have any bug, contact me via Discord: merkii272#8047 (you can open issue, i might not reply DM sometimes)
 
 Use at your own risk! Im not responsible to your action (or ban?) (just reboot after spoof, u will be free to use exitlag without triggering AC)
