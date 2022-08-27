@@ -18,11 +18,17 @@ Don't download through "Download zip", download the lastest release.
 
 How to use:
 Step 1: log out your current exitlag account
+
 Step 2: create a new exitlag account
+
 Step 3: run "run.bat" as administrator
+
 Step 4: Press "1" to spoof
+
 Step 5: Open Exitlag and login
+
 Step 6: restart your pc (not shutdown)
+
 Step 7: after restarting, run exitlag (not the spoofer) and play game
 
 
