@@ -17,6 +17,7 @@ https://youtu.be/Ws_XZpnUTbA
 Don't download through "Download zip", download the lastest release.
 
 How to use:
+
 Step 1: log out your current exitlag account
 
 Step 2: create a new exitlag account
